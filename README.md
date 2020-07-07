@@ -1,5 +1,5 @@
 # Heroes Of Pymoli
-Contributors: Julian Massiah
+Project Contributor - Julian Massiah
 
 This is an exercise that i performed while in Data Analytics boot camp. I ran several different analyses on a large set of video game user data using pandas in python. Data was based on fact information and purchasing history of players in a fabricated massive multiplayer role-playing game (MMORPG).
 
